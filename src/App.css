@@ -1,0 +1,25 @@
+.post-link:hover {
+  text-decoration: none;
+}
+.post-title-input {
+  border: none;
+  outline: none;
+  font-size: 3rem;
+  width: 100%;
+  text-align: center;
+  margin: 35px auto;
+}
+.post-title-input:focus {
+  border-bottom: 1px solid black;
+}
+
+.markdown-preview {
+  height: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid red;
+}
+
+.markdown-preview img {
+  max-width: 100%;
+}
